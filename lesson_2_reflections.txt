@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The system create a directory .git with the files to manage the versioning. For start a version system on workspace.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a middle area between the repository and working directory gives the opportunity to manage in different way the files in working area to add at repository.
