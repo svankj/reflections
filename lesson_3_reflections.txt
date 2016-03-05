@@ -9,3 +9,7 @@ To have more control on what gets shared.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Branches gives the possibility two create locally a new path of modifications without modify the main one. Clones is use to make a copy of remote repository to local repository or to make a copy even locally of a repository. Forks is for clone from remote to remote repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To compare differences between local and remote.
