@@ -13,3 +13,7 @@ Branches gives the possibility two create locally a new path of modifications wi
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 To compare differences between local and remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Guess one you get used to it it become really easy and faster comunicate usign git and github rather than without.
