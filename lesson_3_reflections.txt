@@ -17,3 +17,7 @@ To compare differences between local and remote.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Guess one you get used to it it become really easy and faster comunicate usign git and github rather than without.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I'm not sure that this change could be correct or really useful for the main project. Work on a separate branch could help to try new way and to experiment, update master should be done only when the code is tested, stable and an improvement of the project.
