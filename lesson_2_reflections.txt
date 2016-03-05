@@ -5,3 +5,23 @@ The system create a directory .git with the files to manage the versioning. For 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is a middle area between the repository and working directory gives the opportunity to manage in different way the files in working area to add at repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Adding from working directory only one file at time when are not each other conneted otherwise adding all the files with connected modifications.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches can be useful when you want try some experimental features that you are not sure are a right choice for the main project. It would help splitting the project in more without having problems with the main project.
+
+How do the diagrams help you visualize the branch structure?
+
+Creating a graphical representation of the branch structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is the fusion of two branches. For better understanding.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro you have a system that automatically manage the merging, making it manually could be best if you want make something more customized.
